@@ -1,3 +1,3 @@
-Este es el primer git
+Este es el Segundo git
 
-vamos a probarlo
+vamos a Probarlo
